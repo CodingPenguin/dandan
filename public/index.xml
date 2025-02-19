@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>my mind</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on my mind</description>
     <generator>Hugo -- 0.144.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Feb 2025 21:46:42 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>WTF Is This World?</title>
+      <link>http://localhost:1313/posts/2025-02-19/</link>
       <pubDate>Wed, 19 Feb 2025 21:46:42 +0700</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;hey-yo&#34;&gt;hey yo!&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/posts/2025-02-19/</guid>
+      <description>&lt;h3 id=&#34;2025-02-19&#34;&gt;&lt;em&gt;2025-02-19&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;As I write this, I&amp;rsquo;m in &lt;strong&gt;Chon Buri, Thailand&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;A month before, I was in &lt;strong&gt;Tokyo, Japan&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;A month before, in &lt;strong&gt;Oklahoma, US&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;A month before, in &lt;strong&gt;Los Angeles (LA), CA&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Yet each place is unlike any of the others.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In Thailand, the society prioritizes food, tourism, and massages. In Japan, people are more uptight and always have somewhere to be. In Oklahoma, people praise Trump like he&amp;rsquo;s a Founding Father. And in LA, everyone&amp;rsquo;s the next Instagram influencer.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
